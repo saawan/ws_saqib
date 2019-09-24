@@ -1,0 +1,7 @@
+{
+  "name" : "app1",
+  "type" : "page",
+  "displayName" : "app1 Template",
+  "controller" : "AppC",
+  "cssClass" : "trillo-container"
+}
